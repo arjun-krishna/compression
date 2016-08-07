@@ -1,1 +1,9 @@
 Huffman compression Algorithm
+
+text_analayse takes an input file and outputs the character versus frequency of occurance which can be used by compress.cpp
+
+compress
+ usage :
+ to compress : compress -c inputfile outputfile
+ to decompress : compress -d inputfile outputfile
+
